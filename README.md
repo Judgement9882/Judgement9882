@@ -5,9 +5,7 @@
 # 🔥 Tech Stack 🔥
 <img src="https://img.shields.io/badge/C-pink?style={flat}&logo=C&logoColor=blue"/>  <img src="https://img.shields.io/badge/C++-blue?style={flat}&logo=Cplusplus&logoColor=white"/>  <img src="https://img.shields.io/badge/Python-white?style={flat}&logo=python&logoColor=blue"/>  <img src="https://img.shields.io/badge/JavaScript-gray?style={flat}&logo=javascript&logoColor=yellow"/>  
 
-<img src="https://img.shields.io/badge/Node.js-white?style={flat}&logo=node.js&logoColor=blue"/>  <img src="https://img.shields.io/badge/MySQL-red?style={flat}&logo=mysql&logoColor=blue"/>  <img src="https://img.shields.io/badge/AWS-orange?style={flat}&logo=amazonaws&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Github-gray?style={flat}&logo=Cplusplus&logoColor=black"/>  <img src="https://img.shields.io/badge/Gitlab-white?style={flat}&logo=Cplusplus&logoColor=orange"/>
+<!-- <img src="https://img.shields.io/badge/Node.js-white?style={flat}&logo=node.js&logoColor=blue"/> -->  <img src="https://img.shields.io/badge/MySQL-red?style={flat}&logo=mysql&logoColor=blue"/>  <img src="https://img.shields.io/badge/AWS-orange?style={flat}&logo=amazonaws&logoColor=black"/> <img src="https://img.shields.io/badge/Github-gray?style={flat}&logo=Cplusplus&logoColor=black"/>  <!-- <img src="https://img.shields.io/badge/Gitlab-white?style={flat}&logo=Cplusplus&logoColor=orange"/> -->
   
 
 #
