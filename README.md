@@ -1,7 +1,6 @@
 <div align="center">
   
-  
-#
+ 
 # 🔥 Tech Stack 🔥
 <img src="https://img.shields.io/badge/C-pink?style={flat}&logo=C&logoColor=blue"/>  <img src="https://img.shields.io/badge/C++-blue?style={flat}&logo=Cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/C Sharp-green?style={flat}&logo=csharp&logoColor=239120"/> <img src="https://img.shields.io/badge/Python-white?style={flat}&logo=python&logoColor=blue"/>  
   
