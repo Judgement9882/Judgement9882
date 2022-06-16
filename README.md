@@ -16,7 +16,7 @@
 
 #
 # 🖱 Embedded Board ⌨
-<img src="https://img.shields.io/badge/Arduino-yellow?style={flat}&logo=arduino&logoColor=sky"/>  <img src="https://img.shields.io/badge/Raspberry Pi-white?style={flat}&logo=raspberrypi&logoColor=purple"/>  <img src="https://img.shields.io/badge/ESP32-gray?style={flat}&logo=Espressif&logoColor=red"/>
+<img src="https://img.shields.io/badge/Arduino-yellow?style={flat}&logo=arduino&logoColor=sky"/> <img src="https://img.shields.io/badge/micro:bit-black?style={flat}&logo=micro:bit&logoColor=00ED00"/>  <img src="https://img.shields.io/badge/Raspberry Pi-white?style={flat}&logo=raspberrypi&logoColor=purple"/>  <img src="https://img.shields.io/badge/ESP32-gray?style={flat}&logo=Espressif&logoColor=red"/>
 
   
 #
