@@ -39,7 +39,7 @@
 
   
   
-  
+ \\<!--
 #
 # 📊 Github Stats 📊
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Judgement9882&show_icons=true&theme=cobalt)
@@ -48,6 +48,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Judgement9882&show_icons=true&theme=radical)
   
+  -->
 #
 # 🥇 BOJ Tier 🏆
   
