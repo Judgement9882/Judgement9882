@@ -7,7 +7,7 @@
 
 <br>
 
-### 넓은 시야를 갖춘 🖼
+### 항상 Why를 생각하는 ❓
 
 ### 꾸준히 성장하는 ✒
 
@@ -19,9 +19,21 @@
 
 # 👨‍💻 SKILLS
 
-<br>
 
-### 업데이트중..
+## Web Front-end
+
+[![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1704105096854?alt=media&token=ecaf4b63-0c65-4aa8-ab49-4b27a36b0006)](https://github.com/msdio/stackticon)
+
+## Back-end
+
+[![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1704105412270?alt=media&token=3dec7abb-3318-4460-9290-4b5cda93af49)](https://github.com/msdio/stackticon)
+
+## ETC...
+
+[![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1704105604901?alt=media&token=50540579-694d-43c8-a6b6-e3d33dc051e4)](https://github.com/msdio/stackticon)
+
+
+
 
 <!-- <hr>
   
@@ -52,6 +64,7 @@
 
 # 🎓 EXPERIENCE
 
+- 2024.01 ~ 2024.05    삼성 청년 SW 아카데미 10기 실습코치
 - 2023.01 ~ 2023.12    삼성 청년 SW 아카데미 9기 교육 수료
 - 2017.03 ~ 2023.02    인천대학교 임베디드시스템공학과 졸업
 - 2013.03 ~ 2016.02    송도고등학교 졸업
