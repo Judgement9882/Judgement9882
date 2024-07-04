@@ -1,9 +1,4 @@
-
-
-
-
-
-# 🎵 Hello! I'm... 🎶
+# ✌️ Hello! I'm... ✌️
 
 <br>
 
@@ -11,26 +6,24 @@
 
 ### 성실히 학습하는 ✒
 
-### 함께 일하고 싶은 👨🏻‍🤝‍👨🏻
-
-### 개발자 강준영입니다 😀
+### SW 개발자 강준영입니다 😀
 
 <br>
 
 # 👨‍💻 SKILLS
 
 
-## Web Front-end
+## FE
 
-[![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1704105096854?alt=media&token=ecaf4b63-0c65-4aa8-ab49-4b27a36b0006)](https://github.com/msdio/stackticon)
+[![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1720055101573?alt=media&token=bb8ac50b-015e-4f92-9aa9-6d3f83d35f73)](https://github.com/msdio/stackticon)
 
-## Back-end
+## BE
 
-[![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1704105412270?alt=media&token=3dec7abb-3318-4460-9290-4b5cda93af49)](https://github.com/msdio/stackticon)
+[![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1720055187557?alt=media&token=38be141d-8966-4a4b-87b8-4293475c8b73)](https://github.com/msdio/stackticon)
 
-## ETC...
+## ETC
 
-[![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1704105604901?alt=media&token=50540579-694d-43c8-a6b6-e3d33dc051e4)](https://github.com/msdio/stackticon)
+[![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1720055308336?alt=media&token=6331a7d4-4351-4590-8055-8253d82c75af)](https://github.com/msdio/stackticon)
 
 
 
@@ -64,7 +57,8 @@
 
 # 🎓 EXPERIENCE
 
-- 2024.01 ~            삼성 청년 SW 아카데미 10기 실습코치
+- 2024.07 ~            삼성전자 DA사업부 SW개발
+- 2024.01 ~ 2024.05    삼성 청년 SW 아카데미 10기 실습코치
 - 2023.01 ~ 2023.12    삼성 청년 SW 아카데미 9기 교육 수료
 - 2017.03 ~ 2023.02    인천대학교 임베디드시스템공학과 졸업
 - 2013.03 ~ 2016.02    송도고등학교 졸업
@@ -83,9 +77,14 @@
 
 # 👨🏻‍💻 Project Summary 
 
+- 2024.01.01 ~ 2024.05.31    `SSAFY GPT Extension`
+    - 프롬프트 공유 웹 서비스 & ChatGPT Extension 서비스
+    - 웹 서비스 유지보수, 포크, 사용하기, 관리자, 알림 기능 구현
+      
 - 2023.10.09 ~ 2023.11.17    `늘해랑`
     - 캐릭터와 함께하는 TODO 기반 자기관리 애플리케이션
     - 마이페이지 구현, 캐릭터 커스터마이징 기능 구현, 프로젝트 최종발표
+      
 - 2023.08.21 ~ 2023.10.06    `Q-implant`
     - Quantization Parameter를 사용하여 ONE의 ai모델을 양자화 하는 모듈
     - Q-implant 기능 구현, 최종 발표, SDC23 Korea SSAFY 세션 발표
@@ -184,8 +183,6 @@
   
    
 - Youtube : https://www.youtube.com/channel/UCovZdAUpme_PyNdedggET_Q
-
-- Blog : https://blog.naver.com/kjy6135
 
 - E-mail : kjy6135@naver.com
     
